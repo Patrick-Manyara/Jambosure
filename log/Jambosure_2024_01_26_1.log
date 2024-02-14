@@ -1,0 +1,16 @@
+2024-01-26 02:33:06 : Processing an upload.
+2024-01-26 02:33:06 : Upload successful, file assigned [ TherapyImage20240126at023306amb1w9pxlt . png ] name
+2024-01-26 02:33:30 : Processing an upload.
+2024-01-26 02:33:30 : Upload successful, file assigned [ PsychImage20240126at023330amb2plavd3 . png ] name
+2024-01-26 02:33:30 : Prepairing insert query, SQL: [  INSERT INTO `writer` ( `writer_image`,`writer_name`,`writer_email`,`writer_phone`,`writer_location`,`writer_address`,`writer_id` ) VALUES ( 'PsychImage20240126at023330amb2plavd3.png','The Heritage Insurance','info@heritageinsurance.co.ke','0711 039 000','LIBERTY House, Mamlaka Road','P.O. Box 30390-00100, Nairobi.Kenya','UWR20240126DW3zZt7') ]
+2024-01-26 02:33:30 : Number of affected rows: [ 1 ]
+2024-01-26 02:33:30 : DB connection closed
+2024-01-26 02:34:15 : Processing an upload.
+2024-01-26 02:34:15 : Upload successful, file assigned [ HealthImage20240126at023415am7qs1peb5 . png ] name
+2024-01-26 02:34:15 : Number of affected rows: [ 1 ]
+2024-01-26 02:34:15 : DB connection closed
+2024-01-26 11:06:56 : Processing an upload.
+2024-01-26 11:06:56 : Upload successful, file assigned [ MentalImage20240126at110656ams95ed83f . png ] name
+2024-01-26 11:06:56 : Prepairing insert query, SQL: [  INSERT INTO `writer` ( `writer_image`,`writer_name`,`writer_email`,`writer_phone`,`writer_location`,`writer_address`,`writer_id` ) VALUES ( 'MentalImage20240126at110656ams95ed83f.png','Test Insurance','pmanyara97@gmail.com','0711 039 000','Nairobi','P.O. Box 30390-00100, Nairobi.Kenya','UWR20240126usR90OD') ]
+2024-01-26 11:06:56 : Number of affected rows: [ 1 ]
+2024-01-26 11:06:56 : DB connection closed

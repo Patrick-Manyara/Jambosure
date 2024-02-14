@@ -1,0 +1,1325 @@
+ : Session started for: [ {"session_ip":"::1"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+<<<<<<< HEAD
+2023-10-18 11:39:52 : Last activity time: [ 1697618392 ]
+2023-10-18 11:39:52 : Setting Session : warning : [ {"login":300} ]
+2023-10-18 11:39:52 : redirect header url [ https://localhost/psychx/corporate_login ]
+2023-10-18 11:39:52 : Header already sent. redirect header url [ https://localhost/psychx/corporate_login ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697618392,"page":"dashboard","warning":{"login":300}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 11:39:55 : Last activity time: [ 1697618395 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697618395,"page":"dashboard"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 11:41:33 : Last activity time: [ 1697618493 ]
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : DB connection closed
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : DB connection closed
+2023-10-18 11:41:33 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697618493,"page":"dashboard"} ] warning: [  ]
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : Logging user of email: [ patjunhopat@gmail.com ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697618493,"page":"dashboard"} ]
+2023-10-18 11:41:33 : Trying Database connection...
+2023-10-18 11:41:33 : Database connection successfull
+2023-10-18 11:41:33 : Verifying password...
+2023-10-18 11:41:33 : Setting Session : corporate_login : [ true ]
+2023-10-18 11:41:33 : Setting Session : corporate_email : [ "patjunhopat@gmail.com" ]
+2023-10-18 11:41:33 : Setting Session : corporate_name : [ "Muang Thai" ]
+2023-10-18 11:41:33 : Setting Session : corporate_id : [ "CPR20230930t7UxEh8" ]
+2023-10-18 11:41:33 : Setting Session : success : [ {"login":204} ]
+2023-10-18 11:41:33 : Login successful session created: [ {"session_ip":"::1","LAST_ACTIVITY":1697618493,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"login":204}} ]
+2023-10-18 11:41:33 : redirect header url [ https://localhost/psychx/corporate/ ]
+2023-10-18 11:41:33 : Header already sent. redirect header url [ https://localhost/psychx/corporate/ ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697618493,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"login":204}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 11:41:34 : Last activity time: [ 1697618494 ]
+2023-10-18 11:41:34 : Trying Database connection...
+2023-10-18 11:41:34 : Database connection successfull
+2023-10-18 11:41:34 : Trying Database connection...
+2023-10-18 11:41:34 : Database connection successfull
+2023-10-18 11:41:34 : Trying Database connection...
+2023-10-18 11:41:34 : Database connection successfull
+2023-10-18 11:41:34 : Trying Database connection...
+2023-10-18 11:41:34 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697618494,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 11:42:05 : Last activity time: [ 1697618525 ]
+2023-10-18 11:42:05 : Trying Database connection...
+2023-10-18 11:42:05 : Database connection successfull
+2023-10-18 11:42:05 : Setting Session : csrf : [ "1fca8a605f3c490f10b893ad77afa5db7f0bdafef6e54d9eed30b53727676e45" ]
+2023-10-18 11:42:05 : Setting Session : csrf_time : [ 1697618525 ]
+2023-10-18 11:42:05 : Generated CSRF: [ 7d338bc7976c7f5e5d1e0e8b2efe53096d7c2078c7e07d9688c88dc9984bd197 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697618525,"page":"voucher","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"1fca8a605f3c490f10b893ad77afa5db7f0bdafef6e54d9eed30b53727676e45","csrf_time":1697618525} ]
+=======
+2023-10-18 22:17:10 : Last activity time: [ 1697656630 ]
+2023-10-18 22:17:10 : Trying Database connection...
+2023-10-18 22:17:10 : Database connection successfull
+2023-10-18 22:17:10 : Trying Database connection...
+2023-10-18 22:17:10 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697656630} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:21:27 : Last activity time: [ 1697656887 ]
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:27 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:27 : Starting Encryption... [ sYiIfO0mWh2 ]
+2023-10-18 22:21:27 : Encryption complete: [ WWRoOUMvQVlxUERIS0hyQ0R6ODZqZz09 ]
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:27 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:27 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:21:27 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:27 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:27 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:21:27 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+2023-10-18 22:21:27 : Trying Database connection...
+2023-10-18 22:21:27 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697656887} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:21:49 : Last activity time: [ 1697656909 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:21:49 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:21:49 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911htMm36H ]
+2023-10-18 22:21:49 : Encryption complete: [ dlVCdXNBRUFNREhUQm5EVFNIVTYzZGgvTlhYd2tGaDN2TFNpQ2dZcm5BRT0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911htMm36H ]
+2023-10-18 22:21:49 : Encryption complete: [ dlVCdXNBRUFNREhUQm5EVFNIVTYzZGgvTlhYd2tGaDN2TFNpQ2dZcm5BRT0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ Fb3l9TcLHvN ]
+2023-10-18 22:21:49 : Encryption complete: [ SHRvTU5EOW1PT21KL09tYWl4UkFCUT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ Fb3l9TcLHvN ]
+2023-10-18 22:21:49 : Encryption complete: [ SHRvTU5EOW1PT21KL09tYWl4UkFCUT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911xSRMeDm ]
+2023-10-18 22:21:49 : Encryption complete: [ MlRLYTIrYTdNRXc4QWJRMExmVEV4dFp4ZFFFRkVidHljbDVUMFcyMEo3Yz0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911xSRMeDm ]
+2023-10-18 22:21:49 : Encryption complete: [ MlRLYTIrYTdNRXc4QWJRMExmVEV4dFp4ZFFFRkVidHljbDVUMFcyMEo3Yz0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230615Q3fHXbd ]
+2023-10-18 22:21:49 : Encryption complete: [ eHV0OERzQlNnVndYK2grVmE0Ym1CSmNTQTJiZWljWFVHSitGenQzSCtZRT0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230615Q3fHXbd ]
+2023-10-18 22:21:49 : Encryption complete: [ eHV0OERzQlNnVndYK2grVmE0Ym1CSmNTQTJiZWljWFVHSitGenQzSCtZRT0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2p7HXxnlVSK ]
+2023-10-18 22:21:49 : Encryption complete: [ NFl2YlZYTnJ1SGEwYWd3Y3h3Q1pYZz09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2p7HXxnlVSK ]
+2023-10-18 22:21:49 : Encryption complete: [ NFl2YlZYTnJ1SGEwYWd3Y3h3Q1pYZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:21:49 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:21:49 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230711uvZ6r3a ]
+2023-10-18 22:21:49 : Encryption complete: [ UkY3bjhhajJvMnhHNHFOTGFIeHlDem9UdVQ1OGtGRlViVnVhU3AySXYydz0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230711uvZ6r3a ]
+2023-10-18 22:21:49 : Encryption complete: [ UkY3bjhhajJvMnhHNHFOTGFIeHlDem9UdVQ1OGtGRlViVnVhU3AySXYydz0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 7cDtAlKLsSI ]
+2023-10-18 22:21:49 : Encryption complete: [ Yll0SlprTHRicHp5cHBpYnhtRC90UT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 7cDtAlKLsSI ]
+2023-10-18 22:21:49 : Encryption complete: [ Yll0SlprTHRicHp5cHBpYnhtRC90UT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230702rudDT81 ]
+2023-10-18 22:21:49 : Encryption complete: [ elFZUkR4aDRPMjFTRzhGZkxSSVptTmpYTkRLc0h5NDkrUGk0RjBXdVVlTT0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230702rudDT81 ]
+2023-10-18 22:21:49 : Encryption complete: [ elFZUkR4aDRPMjFTRzhGZkxSSVptTmpYTkRLc0h5NDkrUGk0RjBXdVVlTT0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 4KnW7mNrHdY ]
+2023-10-18 22:21:49 : Encryption complete: [ SUlKb0FiSXRBWG16dFNaVS8rQXNqQT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 4KnW7mNrHdY ]
+2023-10-18 22:21:49 : Encryption complete: [ SUlKb0FiSXRBWG16dFNaVS8rQXNqQT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ xy1RPW6UC2J ]
+2023-10-18 22:21:49 : Encryption complete: [ c0xPNC8reGQzTFd5Ym1CLzVTdlM3Zz09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ xy1RPW6UC2J ]
+2023-10-18 22:21:49 : Encryption complete: [ c0xPNC8reGQzTFd5Ym1CLzVTdlM3Zz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230801ac7mEDb ]
+2023-10-18 22:21:49 : Encryption complete: [ aU93NEJ1MzdXQVJURStOTjZDNVd5emJJZ2N3YnMyUU1YYThOc3hkSHVXcz0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230801ac7mEDb ]
+2023-10-18 22:21:49 : Encryption complete: [ aU93NEJ1MzdXQVJURStOTjZDNVd5emJJZ2N3YnMyUU1YYThOc3hkSHVXcz0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911jkWMURO ]
+2023-10-18 22:21:49 : Encryption complete: [ aWFsV2UwVHBQYWNEM2l0Y1ZrVVhYa25FRExWK0JoVnBVcDMvMjVQMlBYUT0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230911jkWMURO ]
+2023-10-18 22:21:49 : Encryption complete: [ aWFsV2UwVHBQYWNEM2l0Y1ZrVVhYa25FRExWK0JoVnBVcDMvMjVQMlBYUT0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ BNsKmCFWrQz ]
+2023-10-18 22:21:49 : Encryption complete: [ L3VJRUZqeUVSK0hDZEJEbUVtRnplQT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ BNsKmCFWrQz ]
+2023-10-18 22:21:49 : Encryption complete: [ L3VJRUZqeUVSK0hDZEJEbUVtRnplQT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ sYiIfO0mWh2 ]
+2023-10-18 22:21:49 : Encryption complete: [ WWRoOUMvQVlxUERIS0hyQ0R6ODZqZz09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ sYiIfO0mWh2 ]
+2023-10-18 22:21:49 : Encryption complete: [ WWRoOUMvQVlxUERIS0hyQ0R6ODZqZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2DE0jeYUufC ]
+2023-10-18 22:21:49 : Encryption complete: [ bG01WGVjUVJKa2oxZHZsNWxNWS9lZz09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ 2DE0jeYUufC ]
+2023-10-18 22:21:49 : Encryption complete: [ bG01WGVjUVJKa2oxZHZsNWxNWS9lZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230702lvnUipA ]
+2023-10-18 22:21:49 : Encryption complete: [ YTBGUmVVcS8yYUsya0p2UldKVm0zWkZlYlJnWnNYKzRuMEd5U3VXanhCST0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230702lvnUipA ]
+2023-10-18 22:21:49 : Encryption complete: [ YTBGUmVVcS8yYUsya0p2UldKVm0zWkZlYlJnWnNYKzRuMEd5U3VXanhCST0 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ OHrSynPaCM7 ]
+2023-10-18 22:21:49 : Encryption complete: [ cis0a0xwYzZLTDVHZVFlQ3RscTRBUT09 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ OHrSynPaCM7 ]
+2023-10-18 22:21:49 : Encryption complete: [ cis0a0xwYzZLTDVHZVFlQ3RscTRBUT09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230711hpcoNnj ]
+2023-10-18 22:21:49 : Encryption complete: [ L2VuUmxid2RwaW5kKy9Ra1AwaGdlMmJOSy82QkE1L3Q0OEFmY2xOa3I2ST0 ]
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Trying Database connection...
+2023-10-18 22:21:49 : Database connection successfull
+2023-10-18 22:21:49 : Starting Encryption... [ ::1 ]
+2023-10-18 22:21:49 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:21:49 : Starting Encryption... [ THP20230711hpcoNnj ]
+2023-10-18 22:21:49 : Encryption complete: [ L2VuUmxid2RwaW5kKy9Ra1AwaGdlMmJOSy82QkE1L3Q0OEFmY2xOa3I2ST0 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697656909} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:21:57 : Last activity time: [ 1697656917 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697656917} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:16 : Last activity time: [ 1697656996 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697656996} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:28 : Last activity time: [ 1697657008 ]
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : DB connection closed
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : DB connection closed
+2023-10-18 22:23:28 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657008} ] warning: [  ]
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : Logging user of email: [ patjunhopat@gmail.com ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657008} ]
+2023-10-18 22:23:28 : Trying Database connection...
+2023-10-18 22:23:28 : Database connection successfull
+2023-10-18 22:23:28 : Verifying password...
+2023-10-18 22:23:28 : Password_Login failed with reason: [  ] for session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657008} ]
+2023-10-18 22:23:28 : Setting Session : error : [ {"login":135} ]
+2023-10-18 22:23:28 : redirect header url [ https://localhost/psychx/login?failed ]
+2023-10-18 22:23:28 : Header already sent. redirect header url [ https://localhost/psychx/login?failed ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657008,"error":{"login":135}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:28 : Last activity time: [ 1697657008 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657008} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:36 : Last activity time: [ 1697657016 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657016} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:49 : Last activity time: [ 1697657029 ]
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : DB connection closed
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : DB connection closed
+2023-10-18 22:23:49 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657029} ] warning: [  ]
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : Logging user of email: [ patjunhopat@gmail.com ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657029} ]
+2023-10-18 22:23:49 : Trying Database connection...
+2023-10-18 22:23:49 : Database connection successfull
+2023-10-18 22:23:49 : Verifying password...
+2023-10-18 22:23:49 : Password_Login failed with reason: [  ] for session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657029} ]
+2023-10-18 22:23:49 : Setting Session : error : [ {"login":135} ]
+2023-10-18 22:23:49 : redirect header url [ https://localhost/psychx/login?failed ]
+2023-10-18 22:23:49 : Header already sent. redirect header url [ https://localhost/psychx/login?failed ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657029,"error":{"login":135}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:23:50 : Last activity time: [ 1697657030 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657030} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:24:01 : Last activity time: [ 1697657041 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657041} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:24:19 : Last activity time: [ 1697657059 ]
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:19 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:19 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:24:19 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:19 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:19 : Starting Encryption... [ OHrSynPaCM7 ]
+2023-10-18 22:24:19 : Encryption complete: [ cis0a0xwYzZLTDVHZVFlQ3RscTRBUT09 ]
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:19 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:19 : Starting Encryption... [ THP20230711uvZ6r3a ]
+2023-10-18 22:24:19 : Encryption complete: [ UkY3bjhhajJvMnhHNHFOTGFIeHlDem9UdVQ1OGtGRlViVnVhU3AySXYydz0 ]
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+2023-10-18 22:24:19 : Trying Database connection...
+2023-10-18 22:24:19 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657059} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:24:47 : Last activity time: [ 1697657087 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230702rudDT81 ]
+2023-10-18 22:24:47 : Encryption complete: [ elFZUkR4aDRPMjFTRzhGZkxSSVptTmpYTkRLc0h5NDkrUGk0RjBXdVVlTT0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230702rudDT81 ]
+2023-10-18 22:24:47 : Encryption complete: [ elFZUkR4aDRPMjFTRzhGZkxSSVptTmpYTkRLc0h5NDkrUGk0RjBXdVVlTT0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2DE0jeYUufC ]
+2023-10-18 22:24:47 : Encryption complete: [ bG01WGVjUVJKa2oxZHZsNWxNWS9lZz09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2DE0jeYUufC ]
+2023-10-18 22:24:47 : Encryption complete: [ bG01WGVjUVJKa2oxZHZsNWxNWS9lZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230702lvnUipA ]
+2023-10-18 22:24:47 : Encryption complete: [ YTBGUmVVcS8yYUsya0p2UldKVm0zWkZlYlJnWnNYKzRuMEd5U3VXanhCST0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230702lvnUipA ]
+2023-10-18 22:24:47 : Encryption complete: [ YTBGUmVVcS8yYUsya0p2UldKVm0zWkZlYlJnWnNYKzRuMEd5U3VXanhCST0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911htMm36H ]
+2023-10-18 22:24:47 : Encryption complete: [ dlVCdXNBRUFNREhUQm5EVFNIVTYzZGgvTlhYd2tGaDN2TFNpQ2dZcm5BRT0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911htMm36H ]
+2023-10-18 22:24:47 : Encryption complete: [ dlVCdXNBRUFNREhUQm5EVFNIVTYzZGgvTlhYd2tGaDN2TFNpQ2dZcm5BRT0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2p7HXxnlVSK ]
+2023-10-18 22:24:47 : Encryption complete: [ NFl2YlZYTnJ1SGEwYWd3Y3h3Q1pYZz09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2p7HXxnlVSK ]
+2023-10-18 22:24:47 : Encryption complete: [ NFl2YlZYTnJ1SGEwYWd3Y3h3Q1pYZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:24:47 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:24:47 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ xy1RPW6UC2J ]
+2023-10-18 22:24:47 : Encryption complete: [ c0xPNC8reGQzTFd5Ym1CLzVTdlM3Zz09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ xy1RPW6UC2J ]
+2023-10-18 22:24:47 : Encryption complete: [ c0xPNC8reGQzTFd5Ym1CLzVTdlM3Zz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ sYiIfO0mWh2 ]
+2023-10-18 22:24:47 : Encryption complete: [ WWRoOUMvQVlxUERIS0hyQ0R6ODZqZz09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ sYiIfO0mWh2 ]
+2023-10-18 22:24:47 : Encryption complete: [ WWRoOUMvQVlxUERIS0hyQ0R6ODZqZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ OHrSynPaCM7 ]
+2023-10-18 22:24:47 : Encryption complete: [ cis0a0xwYzZLTDVHZVFlQ3RscTRBUT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ OHrSynPaCM7 ]
+2023-10-18 22:24:47 : Encryption complete: [ cis0a0xwYzZLTDVHZVFlQ3RscTRBUT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230711uvZ6r3a ]
+2023-10-18 22:24:47 : Encryption complete: [ UkY3bjhhajJvMnhHNHFOTGFIeHlDem9UdVQ1OGtGRlViVnVhU3AySXYydz0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230711uvZ6r3a ]
+2023-10-18 22:24:47 : Encryption complete: [ UkY3bjhhajJvMnhHNHFOTGFIeHlDem9UdVQ1OGtGRlViVnVhU3AySXYydz0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:24:47 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:24:47 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911jkWMURO ]
+2023-10-18 22:24:47 : Encryption complete: [ aWFsV2UwVHBQYWNEM2l0Y1ZrVVhYa25FRExWK0JoVnBVcDMvMjVQMlBYUT0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911jkWMURO ]
+2023-10-18 22:24:47 : Encryption complete: [ aWFsV2UwVHBQYWNEM2l0Y1ZrVVhYa25FRExWK0JoVnBVcDMvMjVQMlBYUT0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 7cDtAlKLsSI ]
+2023-10-18 22:24:47 : Encryption complete: [ Yll0SlprTHRicHp5cHBpYnhtRC90UT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 7cDtAlKLsSI ]
+2023-10-18 22:24:47 : Encryption complete: [ Yll0SlprTHRicHp5cHBpYnhtRC90UT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230711hpcoNnj ]
+2023-10-18 22:24:47 : Encryption complete: [ L2VuUmxid2RwaW5kKy9Ra1AwaGdlMmJOSy82QkE1L3Q0OEFmY2xOa3I2ST0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230711hpcoNnj ]
+2023-10-18 22:24:47 : Encryption complete: [ L2VuUmxid2RwaW5kKy9Ra1AwaGdlMmJOSy82QkE1L3Q0OEFmY2xOa3I2ST0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230801ac7mEDb ]
+2023-10-18 22:24:47 : Encryption complete: [ aU93NEJ1MzdXQVJURStOTjZDNVd5emJJZ2N3YnMyUU1YYThOc3hkSHVXcz0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230801ac7mEDb ]
+2023-10-18 22:24:47 : Encryption complete: [ aU93NEJ1MzdXQVJURStOTjZDNVd5emJJZ2N3YnMyUU1YYThOc3hkSHVXcz0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ Fb3l9TcLHvN ]
+2023-10-18 22:24:47 : Encryption complete: [ SHRvTU5EOW1PT21KL09tYWl4UkFCUT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ Fb3l9TcLHvN ]
+2023-10-18 22:24:47 : Encryption complete: [ SHRvTU5EOW1PT21KL09tYWl4UkFCUT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 4KnW7mNrHdY ]
+2023-10-18 22:24:47 : Encryption complete: [ SUlKb0FiSXRBWG16dFNaVS8rQXNqQT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ 4KnW7mNrHdY ]
+2023-10-18 22:24:47 : Encryption complete: [ SUlKb0FiSXRBWG16dFNaVS8rQXNqQT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911xSRMeDm ]
+2023-10-18 22:24:47 : Encryption complete: [ MlRLYTIrYTdNRXc4QWJRMExmVEV4dFp4ZFFFRkVidHljbDVUMFcyMEo3Yz0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230911xSRMeDm ]
+2023-10-18 22:24:47 : Encryption complete: [ MlRLYTIrYTdNRXc4QWJRMExmVEV4dFp4ZFFFRkVidHljbDVUMFcyMEo3Yz0 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ BNsKmCFWrQz ]
+2023-10-18 22:24:47 : Encryption complete: [ L3VJRUZqeUVSK0hDZEJEbUVtRnplQT09 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ BNsKmCFWrQz ]
+2023-10-18 22:24:47 : Encryption complete: [ L3VJRUZqeUVSK0hDZEJEbUVtRnplQT09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230615Q3fHXbd ]
+2023-10-18 22:24:47 : Encryption complete: [ eHV0OERzQlNnVndYK2grVmE0Ym1CSmNTQTJiZWljWFVHSitGenQzSCtZRT0 ]
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Trying Database connection...
+2023-10-18 22:24:47 : Database connection successfull
+2023-10-18 22:24:47 : Starting Encryption... [ ::1 ]
+2023-10-18 22:24:47 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:24:47 : Starting Encryption... [ THP20230615Q3fHXbd ]
+2023-10-18 22:24:47 : Encryption complete: [ eHV0OERzQlNnVndYK2grVmE0Ym1CSmNTQTJiZWljWFVHSitGenQzSCtZRT0 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657087} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:24:53 : Last activity time: [ 1697657093 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657093} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:25:21 : Last activity time: [ 1697657121 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657121} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:25:29 : Last activity time: [ 1697657129 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657129} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:25:37 : Last activity time: [ 1697657137 ]
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : DB connection closed
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : DB connection closed
+2023-10-18 22:25:37 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657137} ] warning: [  ]
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : Logging user of email: [  ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657137} ]
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : Verifying password...
+2023-10-18 22:25:37 : Trying Database connection...
+2023-10-18 22:25:37 : Database connection successfull
+2023-10-18 22:25:37 : Setting Session : login : [ true ]
+2023-10-18 22:25:37 : Setting Session : user_email : [ "" ]
+2023-10-18 22:25:37 : Setting Session : user_name : [ "" ]
+2023-10-18 22:25:37 : Setting Session : user_id : [ "USR20230925rA0Gu3v" ]
+2023-10-18 22:25:37 : Setting Session : success : [ {"login":204} ]
+2023-10-18 22:25:37 : Login successful session created: [ {"session_ip":"::1","LAST_ACTIVITY":1697657137,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","success":{"login":204}} ]
+2023-10-18 22:25:37 : redirect header url [ https://localhost/psychx/ ]
+2023-10-18 22:25:37 : Header already sent. redirect header url [ https://localhost/psychx/ ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657137,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","success":{"login":204}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:25:38 : Last activity time: [ 1697657138 ]
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Starting Encryption... [ ::1 ]
+2023-10-18 22:25:38 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:25:38 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:25:38 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Starting Encryption... [ ::1 ]
+2023-10-18 22:25:38 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:25:38 : Starting Encryption... [ 2DE0jeYUufC ]
+2023-10-18 22:25:38 : Encryption complete: [ bG01WGVjUVJKa2oxZHZsNWxNWS9lZz09 ]
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Starting Encryption... [ ::1 ]
+2023-10-18 22:25:38 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:25:38 : Starting Encryption... [ xy1RPW6UC2J ]
+2023-10-18 22:25:38 : Encryption complete: [ c0xPNC8reGQzTFd5Ym1CLzVTdlM3Zz09 ]
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+2023-10-18 22:25:38 : Trying Database connection...
+2023-10-18 22:25:38 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657138,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:25:51 : Last activity time: [ 1697657151 ]
+2023-10-18 22:25:51 : Trying Database connection...
+2023-10-18 22:25:51 : Database connection successfull
+2023-10-18 22:25:51 : Trying Database connection...
+2023-10-18 22:25:51 : Database connection successfull
+2023-10-18 22:25:51 : Trying Database connection...
+2023-10-18 22:25:51 : Database connection successfull
+2023-10-18 22:25:51 : Trying Database connection...
+2023-10-18 22:25:51 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657151,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","page":"dashboard"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:13 : Last activity time: [ 1697657173 ]
+2023-10-18 22:26:13 : Trying Database connection...
+2023-10-18 22:26:13 : Database connection successfull
+2023-10-18 22:26:13 : Trying Database connection...
+2023-10-18 22:26:13 : Database connection successfull
+2023-10-18 22:26:13 : Trying Database connection...
+2023-10-18 22:26:13 : Database connection successfull
+2023-10-18 22:26:13 : Trying Database connection...
+2023-10-18 22:26:13 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657173,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","page":"dashboard"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:16 : Last activity time: [ 1697657176 ]
+2023-10-18 22:26:16 : Logout attempt...
+2023-10-18 22:26:16 : User attempting to logout: [ {"session_ip":"::1","LAST_ACTIVITY":1697657176,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","page":"dashboard"} ]
+2023-10-18 22:26:16 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657176,"login":true,"user_email":"","user_name":"","user_id":"USR20230925rA0Gu3v","page":"dashboard"} ] warning: [  ]
+2023-10-18 22:26:16 : Logout attempt accepted.
+2023-10-18 22:26:16 : Logout successful.
+2023-10-18 22:26:16 : redirect header url [ https://localhost/psychx?logged_out ]
+2023-10-18 22:26:16 : Header already sent. redirect header url [ https://localhost/psychx?logged_out ]
+ : Session started for: [ {"session_ip":"::1"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:16 : Last activity time: [ 1697657176 ]
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Starting Encryption... [ ::1 ]
+2023-10-18 22:26:16 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:26:16 : Starting Encryption... [ 2uNpbEZ0Rht ]
+2023-10-18 22:26:16 : Encryption complete: [ YXlpOExXSCtZREFHdHVkaUFyTkREQT09 ]
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Starting Encryption... [ ::1 ]
+2023-10-18 22:26:16 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:26:16 : Starting Encryption... [ DBk3Ro29htf ]
+2023-10-18 22:26:16 : Encryption complete: [ UjREMHhXZ05Ec2Rrb2JIbHVPcm1Tdz09 ]
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Starting Encryption... [ ::1 ]
+2023-10-18 22:26:16 : Encryption complete: [ QVN0aHRDcVVoSTZRZHJ4WmxOMXcyZz09 ]
+2023-10-18 22:26:16 : Starting Encryption... [ THP20230702rudDT81 ]
+2023-10-18 22:26:16 : Encryption complete: [ elFZUkR4aDRPMjFTRzhGZkxSSVptTmpYTkRLc0h5NDkrUGk0RjBXdVVlTT0 ]
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+2023-10-18 22:26:16 : Trying Database connection...
+2023-10-18 22:26:16 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657176} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:21 : Last activity time: [ 1697657181 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657181} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:49 : Last activity time: [ 1697657209 ]
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : DB connection closed
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : DB connection closed
+2023-10-18 22:26:49 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657209} ] warning: [  ]
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : Logging user of email: [ patjunhopat@gmail.com ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657209} ]
+2023-10-18 22:26:49 : Trying Database connection...
+2023-10-18 22:26:49 : Database connection successfull
+2023-10-18 22:26:49 : Verifying password...
+2023-10-18 22:26:49 : Password_Login failed with reason: [  ] for session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657209} ]
+2023-10-18 22:26:49 : Setting Session : error : [ {"login":135} ]
+2023-10-18 22:26:49 : redirect header url [ https://localhost/psychx/login?failed ]
+2023-10-18 22:26:49 : Header already sent. redirect header url [ https://localhost/psychx/login?failed ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657209,"error":{"login":135}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:49 : Last activity time: [ 1697657209 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657209} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:26:58 : Last activity time: [ 1697657218 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657218} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:27:10 : Last activity time: [ 1697657230 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657230} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:27:18 : Last activity time: [ 1697657238 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657238} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:27:50 : Last activity time: [ 1697657270 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657270} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:29:14 : Last activity time: [ 1697657354 ]
+2023-10-18 22:29:14 : Setting Session : warning : [ {"login":300} ]
+2023-10-18 22:29:14 : redirect header url [ https://localhost/psychx/corporate_login ]
+2023-10-18 22:29:14 : Header already sent. redirect header url [ https://localhost/psychx/corporate_login ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657354,"page":"dashboard","warning":{"login":300}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:29:14 : Last activity time: [ 1697657354 ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657354,"page":"dashboard"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:29:27 : Last activity time: [ 1697657367 ]
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : DB connection closed
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : DB connection closed
+2023-10-18 22:29:27 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697657367,"page":"dashboard"} ] warning: [  ]
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : Logging user of email: [ patjunhopat@gmail.com ] in, session: [ {"session_ip":"::1","LAST_ACTIVITY":1697657367,"page":"dashboard"} ]
+2023-10-18 22:29:27 : Trying Database connection...
+2023-10-18 22:29:27 : Database connection successfull
+2023-10-18 22:29:27 : Verifying password...
+2023-10-18 22:29:27 : Setting Session : corporate_login : [ true ]
+2023-10-18 22:29:27 : Setting Session : corporate_email : [ "patjunhopat@gmail.com" ]
+2023-10-18 22:29:27 : Setting Session : corporate_name : [ "Muang Thai" ]
+2023-10-18 22:29:27 : Setting Session : corporate_id : [ "CPR20230930t7UxEh8" ]
+2023-10-18 22:29:27 : Setting Session : success : [ {"login":204} ]
+2023-10-18 22:29:27 : Login successful session created: [ {"session_ip":"::1","LAST_ACTIVITY":1697657367,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"login":204}} ]
+2023-10-18 22:29:27 : redirect header url [ https://localhost/psychx/corporate/ ]
+2023-10-18 22:29:27 : Header already sent. redirect header url [ https://localhost/psychx/corporate/ ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657367,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"login":204}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:29:28 : Last activity time: [ 1697657368 ]
+2023-10-18 22:29:28 : Trying Database connection...
+2023-10-18 22:29:28 : Database connection successfull
+2023-10-18 22:29:28 : Trying Database connection...
+2023-10-18 22:29:28 : Database connection successfull
+2023-10-18 22:29:28 : Trying Database connection...
+2023-10-18 22:29:28 : Database connection successfull
+2023-10-18 22:29:28 : Trying Database connection...
+2023-10-18 22:29:28 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657368,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:32:24 : Last activity time: [ 1697657544 ]
+2023-10-18 22:32:24 : Trying Database connection...
+2023-10-18 22:32:24 : Database connection successfull
+2023-10-18 22:32:24 : Trying Database connection...
+2023-10-18 22:32:24 : Database connection successfull
+2023-10-18 22:32:24 : Trying Database connection...
+2023-10-18 22:32:24 : Database connection successfull
+2023-10-18 22:32:24 : Trying Database connection...
+2023-10-18 22:32:24 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657544,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:33:03 : Last activity time: [ 1697657583 ]
+2023-10-18 22:33:03 : Trying Database connection...
+2023-10-18 22:33:03 : Database connection successfull
+2023-10-18 22:33:03 : Trying Database connection...
+2023-10-18 22:33:03 : Database connection successfull
+2023-10-18 22:33:03 : Trying Database connection...
+2023-10-18 22:33:03 : Database connection successfull
+2023-10-18 22:33:03 : Trying Database connection...
+2023-10-18 22:33:03 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657583,"page":"dashboard","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:33:49 : Last activity time: [ 1697657629 ]
+2023-10-18 22:33:49 : Trying Database connection...
+2023-10-18 22:33:49 : Database connection successfull
+2023-10-18 22:33:49 : Setting Session : csrf : [ "0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1" ]
+2023-10-18 22:33:49 : Setting Session : csrf_time : [ 1697657629 ]
+2023-10-18 22:33:49 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697657629,"page":"voucher","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657629,"page":"voucher","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:36:15 : Last activity time: [ 1697657775 ]
+2023-10-18 22:36:15 : Trying Database connection...
+2023-10-18 22:36:15 : Database connection successfull
+2023-10-18 22:36:15 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697657775,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657775,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:38:16 : Last activity time: [ 1697657896 ]
+2023-10-18 22:38:16 : Trying Database connection...
+2023-10-18 22:38:16 : Database connection successfull
+2023-10-18 22:38:16 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697657896,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697657896,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:40:07 : Last activity time: [ 1697658007 ]
+2023-10-18 22:40:07 : Trying Database connection...
+2023-10-18 22:40:07 : Database connection successfull
+2023-10-18 22:40:07 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697658007,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697658007,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:40:28 : Last activity time: [ 1697658028 ]
+2023-10-18 22:40:28 : Trying Database connection...
+2023-10-18 22:40:28 : Database connection successfull
+2023-10-18 22:40:28 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697658028,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697658028,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:40:55 : Last activity time: [ 1697658055 ]
+2023-10-18 22:40:55 : Trying Database connection...
+2023-10-18 22:40:55 : Database connection successfull
+2023-10-18 22:40:55 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697658055,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697658055,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:58:31 : Last activity time: [ 1697659111 ]
+2023-10-18 22:58:31 : Trying Database connection...
+2023-10-18 22:58:31 : Database connection successfull
+2023-10-18 22:58:31 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659111,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659111,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:58:45 : Last activity time: [ 1697659125 ]
+2023-10-18 22:58:45 : Trying Database connection...
+2023-10-18 22:58:45 : Database connection successfull
+2023-10-18 22:58:45 : DB connection closed
+2023-10-18 22:58:45 : Trying Database connection...
+2023-10-18 22:58:45 : Database connection successfull
+2023-10-18 22:58:45 : DB connection closed
+2023-10-18 22:58:45 : Generated CSRF: [ 0096e7d0caf386c1d8f063fe89e761c48bf331d5438d73f12b922b38df152c6a ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659125,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"0173084945d02fbe68f7210251a8acaed57451b497e1ff62718b19112b7c1ed1","csrf_time":1697657629} ]
+2023-10-18 22:58:45 : CSRF verified
+2023-10-18 22:58:45 : Trying Database connection...
+2023-10-18 22:58:45 : Database connection successfull
+2023-10-18 22:58:45 : Setting Session : error : [ {"view_boards":"Please upload a CSV file."} ]
+2023-10-18 22:58:45 : redirect header url [ https://localhost/psychx/corporate/upload_members ]
+2023-10-18 22:58:45 : Header already sent. redirect header url [ https://localhost/psychx/corporate/upload_members ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659125,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","error":{"view_boards":"Please upload a CSV file."}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:58:45 : Last activity time: [ 1697659125 ]
+2023-10-18 22:58:45 : Trying Database connection...
+2023-10-18 22:58:45 : Database connection successfull
+2023-10-18 22:58:45 : Setting Session : csrf : [ "fe6447addc524329ad4cc865756f00251c6425515dd03977e859b17d4ad93c29" ]
+2023-10-18 22:58:45 : Setting Session : csrf_time : [ 1697659125 ]
+2023-10-18 22:58:45 : Generated CSRF: [ c47b776737f4d21481926ed06b0dd5f8e060f143a9659b11c055c392f9e3c497 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659125,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"fe6447addc524329ad4cc865756f00251c6425515dd03977e859b17d4ad93c29","csrf_time":1697659125} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659125,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"fe6447addc524329ad4cc865756f00251c6425515dd03977e859b17d4ad93c29","csrf_time":1697659125} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:58:49 : Last activity time: [ 1697659129 ]
+2023-10-18 22:58:49 : Trying Database connection...
+2023-10-18 22:58:49 : Database connection successfull
+2023-10-18 22:58:49 : DB connection closed
+2023-10-18 22:58:49 : Trying Database connection...
+2023-10-18 22:58:49 : Database connection successfull
+2023-10-18 22:58:49 : DB connection closed
+2023-10-18 22:58:49 : Generated CSRF: [ c47b776737f4d21481926ed06b0dd5f8e060f143a9659b11c055c392f9e3c497 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659129,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"fe6447addc524329ad4cc865756f00251c6425515dd03977e859b17d4ad93c29","csrf_time":1697659125} ]
+2023-10-18 22:58:49 : CSRF verified
+2023-10-18 22:58:49 : Trying Database connection...
+2023-10-18 22:58:49 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659129,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:58:54 : Last activity time: [ 1697659134 ]
+2023-10-18 22:58:54 : Trying Database connection...
+2023-10-18 22:58:54 : Database connection successfull
+2023-10-18 22:58:54 : Setting Session : csrf : [ "174dc8ed819c69ff0cbfbf061ec1c96e16c08565114b848f3925c9e8c7368e9e" ]
+2023-10-18 22:58:54 : Setting Session : csrf_time : [ 1697659134 ]
+2023-10-18 22:58:54 : Generated CSRF: [ ab195a76436e44082dd14c6fdc0e1f938f66b2f55ca1272b3b8f7344e6978fae ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659134,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"174dc8ed819c69ff0cbfbf061ec1c96e16c08565114b848f3925c9e8c7368e9e","csrf_time":1697659134} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659134,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"174dc8ed819c69ff0cbfbf061ec1c96e16c08565114b848f3925c9e8c7368e9e","csrf_time":1697659134} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:59:03 : Last activity time: [ 1697659143 ]
+2023-10-18 22:59:03 : Trying Database connection...
+2023-10-18 22:59:03 : Database connection successfull
+2023-10-18 22:59:03 : DB connection closed
+2023-10-18 22:59:03 : Trying Database connection...
+2023-10-18 22:59:03 : Database connection successfull
+2023-10-18 22:59:03 : DB connection closed
+2023-10-18 22:59:03 : Generated CSRF: [ ab195a76436e44082dd14c6fdc0e1f938f66b2f55ca1272b3b8f7344e6978fae ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659143,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"174dc8ed819c69ff0cbfbf061ec1c96e16c08565114b848f3925c9e8c7368e9e","csrf_time":1697659134} ]
+2023-10-18 22:59:03 : CSRF verified
+2023-10-18 22:59:03 : Trying Database connection...
+2023-10-18 22:59:03 : Database connection successfull
+2023-10-18 22:59:03 : Setting Session : error : [ {"view_boards":"Please upload a CSV file."} ]
+2023-10-18 22:59:03 : redirect header url [ https://localhost/psychx/corporate/upload_members ]
+2023-10-18 22:59:03 : Header already sent. redirect header url [ https://localhost/psychx/corporate/upload_members ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659143,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","error":{"view_boards":"Please upload a CSV file."}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 22:59:03 : Last activity time: [ 1697659143 ]
+2023-10-18 22:59:03 : Trying Database connection...
+2023-10-18 22:59:03 : Database connection successfull
+2023-10-18 22:59:03 : Setting Session : csrf : [ "dd2a72f37cc6c4ff60c1728234709b04b385627cb0d4905534c4f9cd9bb01f31" ]
+2023-10-18 22:59:03 : Setting Session : csrf_time : [ 1697659143 ]
+2023-10-18 22:59:03 : Generated CSRF: [ 4805f583529ab9db6f91e65eb8313e5d2dc5cc66fb1b60e8e9b3b69f19bfe880 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659143,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"dd2a72f37cc6c4ff60c1728234709b04b385627cb0d4905534c4f9cd9bb01f31","csrf_time":1697659143} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659143,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"dd2a72f37cc6c4ff60c1728234709b04b385627cb0d4905534c4f9cd9bb01f31","csrf_time":1697659143} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:00:22 : Last activity time: [ 1697659222 ]
+2023-10-18 23:00:22 : Trying Database connection...
+2023-10-18 23:00:22 : Database connection successfull
+2023-10-18 23:00:22 : DB connection closed
+2023-10-18 23:00:22 : Trying Database connection...
+2023-10-18 23:00:22 : Database connection successfull
+2023-10-18 23:00:22 : DB connection closed
+2023-10-18 23:00:22 : Generated CSRF: [ 4805f583529ab9db6f91e65eb8313e5d2dc5cc66fb1b60e8e9b3b69f19bfe880 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659222,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"dd2a72f37cc6c4ff60c1728234709b04b385627cb0d4905534c4f9cd9bb01f31","csrf_time":1697659143} ]
+2023-10-18 23:00:22 : CSRF verified
+2023-10-18 23:00:22 : Trying Database connection...
+2023-10-18 23:00:22 : Database connection successfull
+2023-10-18 23:00:22 : Setting Session : error : [ {"employee":"Please upload a CSV file."} ]
+2023-10-18 23:00:22 : redirect header url [ https://localhost/psychx/corporate/upload_members ]
+2023-10-18 23:00:22 : Header already sent. redirect header url [ https://localhost/psychx/corporate/upload_members ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659222,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","error":{"employee":"Please upload a CSV file."}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:00:22 : Last activity time: [ 1697659222 ]
+2023-10-18 23:00:22 : Trying Database connection...
+2023-10-18 23:00:22 : Database connection successfull
+2023-10-18 23:00:22 : Setting Session : csrf : [ "3d378120223b9d3419862817b90b6a8dfb315fd9a0ce66c863082de4f90308f3" ]
+2023-10-18 23:00:22 : Setting Session : csrf_time : [ 1697659222 ]
+2023-10-18 23:00:22 : Generated CSRF: [ 9b6ac493621a3c71b826cd0c32251f65dfdabb9d2ca21dcaa821e49cf5e6c831 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659222,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"3d378120223b9d3419862817b90b6a8dfb315fd9a0ce66c863082de4f90308f3","csrf_time":1697659222} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659222,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"3d378120223b9d3419862817b90b6a8dfb315fd9a0ce66c863082de4f90308f3","csrf_time":1697659222} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:00:39 : Last activity time: [ 1697659239 ]
+2023-10-18 23:00:39 : Trying Database connection...
+2023-10-18 23:00:39 : Database connection successfull
+2023-10-18 23:00:39 : DB connection closed
+2023-10-18 23:00:39 : Trying Database connection...
+2023-10-18 23:00:39 : Database connection successfull
+2023-10-18 23:00:39 : DB connection closed
+2023-10-18 23:00:39 : Generated CSRF: [ 9b6ac493621a3c71b826cd0c32251f65dfdabb9d2ca21dcaa821e49cf5e6c831 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659239,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"3d378120223b9d3419862817b90b6a8dfb315fd9a0ce66c863082de4f90308f3","csrf_time":1697659222} ]
+2023-10-18 23:00:39 : CSRF verified
+2023-10-18 23:00:39 : Trying Database connection...
+2023-10-18 23:00:39 : Database connection successfull
+2023-10-18 23:00:39 : Setting Session : error : [ {"employee":"Please upload a CSV file."} ]
+2023-10-18 23:00:39 : redirect header url [ https://localhost/psychx/corporate/upload_members ]
+2023-10-18 23:00:39 : Header already sent. redirect header url [ https://localhost/psychx/corporate/upload_members ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659239,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","error":{"employee":"Please upload a CSV file."}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:00:39 : Last activity time: [ 1697659239 ]
+2023-10-18 23:00:39 : Trying Database connection...
+2023-10-18 23:00:39 : Database connection successfull
+2023-10-18 23:00:39 : Setting Session : csrf : [ "9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b" ]
+2023-10-18 23:00:39 : Setting Session : csrf_time : [ 1697659239 ]
+2023-10-18 23:00:39 : Generated CSRF: [ 927f6a2883f9729c7901967be00f0eaf6f71d6aaca0e3cdc47b2be96a5f01914 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659239,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659239,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:05:20 : Last activity time: [ 1697659520 ]
+2023-10-18 23:05:20 : Trying Database connection...
+2023-10-18 23:05:20 : Database connection successfull
+2023-10-18 23:05:20 : Generated CSRF: [ 927f6a2883f9729c7901967be00f0eaf6f71d6aaca0e3cdc47b2be96a5f01914 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659520,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659520,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:06:15 : Last activity time: [ 1697659575 ]
+2023-10-18 23:06:15 : Trying Database connection...
+2023-10-18 23:06:15 : Database connection successfull
+2023-10-18 23:06:15 : Generated CSRF: [ 927f6a2883f9729c7901967be00f0eaf6f71d6aaca0e3cdc47b2be96a5f01914 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659575,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659575,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:08:25 : Last activity time: [ 1697659705 ]
+2023-10-18 23:08:25 : Trying Database connection...
+2023-10-18 23:08:25 : Database connection successfull
+2023-10-18 23:08:25 : Generated CSRF: [ 927f6a2883f9729c7901967be00f0eaf6f71d6aaca0e3cdc47b2be96a5f01914 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659705,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659705,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:09:02 : Last activity time: [ 1697659742 ]
+2023-10-18 23:09:02 : Trying Database connection...
+2023-10-18 23:09:02 : Database connection successfull
+2023-10-18 23:09:02 : DB connection closed
+2023-10-18 23:09:02 : Trying Database connection...
+2023-10-18 23:09:02 : Database connection successfull
+2023-10-18 23:09:02 : DB connection closed
+2023-10-18 23:09:02 : Generated CSRF: [ 927f6a2883f9729c7901967be00f0eaf6f71d6aaca0e3cdc47b2be96a5f01914 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659742,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"9751d07e4840e4c00331900268c46c8bada95c41fd054a744548d1d36ca06a1b","csrf_time":1697659239} ]
+2023-10-18 23:09:02 : CSRF verified
+2023-10-18 23:09:02 : Trying Database connection...
+2023-10-18 23:09:02 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659742,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:11:54 : Last activity time: [ 1697659914 ]
+2023-10-18 23:11:54 : Trying Database connection...
+2023-10-18 23:11:54 : Database connection successfull
+2023-10-18 23:11:54 : Setting Session : csrf : [ "86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff" ]
+2023-10-18 23:11:54 : Setting Session : csrf_time : [ 1697659914 ]
+2023-10-18 23:11:54 : Generated CSRF: [ e608a1876fb76cb61562276444a9faa62c7665c918251d205a457c4135b3ec94 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659914,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff","csrf_time":1697659914} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659914,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff","csrf_time":1697659914} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:11:57 : Last activity time: [ 1697659917 ]
+2023-10-18 23:11:57 : Trying Database connection...
+2023-10-18 23:11:57 : Database connection successfull
+2023-10-18 23:11:57 : Generated CSRF: [ e608a1876fb76cb61562276444a9faa62c7665c918251d205a457c4135b3ec94 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659917,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff","csrf_time":1697659914} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659917,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff","csrf_time":1697659914} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:12:07 : Last activity time: [ 1697659927 ]
+2023-10-18 23:12:07 : Trying Database connection...
+2023-10-18 23:12:07 : Database connection successfull
+2023-10-18 23:12:07 : DB connection closed
+2023-10-18 23:12:07 : Trying Database connection...
+2023-10-18 23:12:07 : Database connection successfull
+2023-10-18 23:12:07 : DB connection closed
+2023-10-18 23:12:07 : Generated CSRF: [ e608a1876fb76cb61562276444a9faa62c7665c918251d205a457c4135b3ec94 ] for user: [ {"session_ip":"::1","LAST_ACTIVITY":1697659927,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"86e2b618c9a7b8163aaab4079b62122aa832269a0ce378bc5442d1340d16b1ff","csrf_time":1697659914} ]
+2023-10-18 23:12:07 : CSRF verified
+2023-10-18 23:12:07 : Trying Database connection...
+2023-10-18 23:12:07 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697659927,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:15:39 : Last activity time: [ 1697660139 ]
+2023-10-18 23:15:39 : Trying Database connection...
+2023-10-18 23:15:39 : Database connection successfull
+2023-10-18 23:15:39 : DB connection closed
+2023-10-18 23:15:39 : Trying Database connection...
+2023-10-18 23:15:39 : Database connection successfull
+2023-10-18 23:15:39 : DB connection closed
+2023-10-18 23:15:39 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697660139,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ] warning: [  ]
+2023-10-18 23:15:39 : Trying Database connection...
+2023-10-18 23:15:39 : Database connection successfull
+2023-10-18 23:15:39 : Processing an upload.
+2023-10-18 23:15:39 : Upload rejected because of [  ]
+2023-10-18 23:15:39 : Trying Database connection...
+2023-10-18 23:15:39 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697660139,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-18 23:18:10 : Last activity time: [ 1697660290 ]
+2023-10-18 23:18:10 : Trying Database connection...
+2023-10-18 23:18:10 : Database connection successfull
+2023-10-18 23:18:10 : DB connection closed
+2023-10-18 23:18:10 : Trying Database connection...
+2023-10-18 23:18:10 : Database connection successfull
+2023-10-18 23:18:10 : DB connection closed
+2023-10-18 23:18:10 : CSRF time expired for [ {"session_ip":"::1","LAST_ACTIVITY":1697660290,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ] warning: [  ]
+2023-10-18 23:18:10 : Trying Database connection...
+2023-10-18 23:18:10 : Database connection successfull
+2023-10-18 23:18:10 : Processing an upload.
+2023-10-18 23:18:10 : Upload rejected because of [  ]
+2023-10-18 23:18:10 : Trying Database connection...
+2023-10-18 23:18:10 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697660290,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697664812,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697664821,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"ccea60b0fdbb2988a96b2769ac244976722cddedce230f4a96e9d34092829c01","csrf_time":1697664821} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697664974,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665032,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"employee":235}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665033,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"a91736fbfc1c6c58f3c72d7b5daac91e273ceb0496b8a4ca94e7716d3cde9335","csrf_time":1697665033} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665099,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"employee":235}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665099,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"ba03c1da61ec0c85ae4400ba55897f2416cd4b5f936405a26d95d8b7eb4708ac","csrf_time":1697665099} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665471,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665504,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"e38f64218cbe375db7164d6241fbdff05cff878498a5dbfc3abdf044512956a1","csrf_time":1697665504} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665515,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","success":{"employee":235}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665515,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665569,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665583,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665594,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665608,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665623,"page":"vouchers","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665683,"page":"vouchers","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665695,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665734,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665831,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665881,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665938,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665944,"page":"upload members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665949,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665954,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944,"success":{"delete":212}} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665959,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665987,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697665996,"page":"members","corporate_login":true,"corporate_email":"patjunhopat@gmail.com","corporate_name":"Muang Thai","corporate_id":"CPR20230930t7UxEh8","csrf":"184cb41d76ccb455331742744835e5ea3a1457b623e80e8c6919eedf0d06a22b","csrf_time":1697665944} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+>>>>>>> 589c52999458bedba9138ece9ff4d93e8b5642b4

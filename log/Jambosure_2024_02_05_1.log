@@ -1,0 +1,66 @@
+2024-02-05 12:26:47 : Prepairing insert query, SQL: [  INSERT INTO `category` ( `category_name`,`category_id` ) VALUES ( 'Third Party','CAT20240205ghdSw0f') ]
+2024-02-05 12:26:47 : Number of affected rows: [ 1 ]
+2024-02-05 12:26:47 : DB connection closed
+2024-02-05 12:29:44 : Prepairing insert query, SQL: [  INSERT INTO `category` ( `category_name`,`category_id` ) VALUES ( 'Comprehensive','CAT20240205EzrxFIi') ]
+2024-02-05 12:29:44 : Number of affected rows: [ 1 ]
+2024-02-05 12:29:44 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id` ) VALUES ( 'PRO20240205stGBjX4','JAMBO-1UQRZB','CAT20240205EzrxFIi','UWR20240126DWabc','Motor Vehicle Private Comprehensive','SUBPRIV') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'TYLnKHi','Excess Protection','no','rate','','5','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'eip6T0g','PVT','no','rate','','5','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'P9WfsdQ','Loss of Use','no','price','10000','','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'SCbWzEh','Free Benefit','yes','','','','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'Wnd5cfT','PCF','','price','1000','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:54 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( '1Zunzq2','Test Levy','5','rate','','PRO20240205stGBjX4') ]
+2024-02-05 15:34:54 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:54 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id` ) VALUES ( 'PRO202402056NOwBQb','JAMBO-DN9J2A','CAT20240205EzrxFIi','UWR20240126DWabc','Motor Vehicle Private Comprehensive','SUBPRIV') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'SzXd5T1','Excess Protection','no','rate','','5','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( '5ol1C3x','PVT','no','rate','','5','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'nKNLU17','Loss of Use','no','price','10000','','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'z07XcoQ','Free Benefit','yes','','','','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( '4WGNplk','PCF','','price','1000','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:34:55 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( '0M1EuIZ','Test Levy','5','rate','','PRO202402056NOwBQb') ]
+2024-02-05 15:34:55 : Number of affected rows: [ 1 ]
+2024-02-05 15:34:55 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id` ) VALUES ( 'PRO20240205GLNiVtZ','JAMBO-JFR2GO','CAT20240205EzrxFIi','UWR20240126DWabc','Motor Vehicle Private Comprehensive','SUBPRIV') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'rKUEhjq','Excess Protection','no','rate','','0.25','PRO20240205GLNiVtZ') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'U9ZtiI7','PVT','no','rate','','0.5','PRO20240205GLNiVtZ') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'tz0Tpy7','Free Benefit','yes','','','','PRO20240205GLNiVtZ') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'NaCV7Eh','PCF','0.5','rate','','PRO20240205GLNiVtZ') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed
+2024-02-05 15:39:39 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'YU30vjK','Levy Tax','','price','20000','PRO20240205GLNiVtZ') ]
+2024-02-05 15:39:39 : Number of affected rows: [ 1 ]
+2024-02-05 15:39:39 : DB connection closed

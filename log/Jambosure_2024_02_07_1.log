@@ -1,0 +1,39 @@
+2024-02-07 11:22:12 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id`,`product_mincap` ) VALUES ( 'PRO202402070SlUuJy','JAMBO-7RMY52','CAT20240205EzrxFIi','UWR20240126DWabc','Motor Vehicle Private Comprehensive','SUBPRIV','400000') ]
+2024-02-07 11:22:12 : Number of affected rows: [ 1 ]
+2024-02-07 11:22:12 : DB connection closed
+2024-02-07 11:22:12 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'WEkfVKb','','','','','','PRO202402070SlUuJy') ]
+2024-02-07 11:22:12 : Number of affected rows: [ 1 ]
+2024-02-07 11:22:12 : DB connection closed
+2024-02-07 11:22:12 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( '1TkhPm3','','','','','PRO202402070SlUuJy') ]
+2024-02-07 11:22:12 : Number of affected rows: [ 1 ]
+2024-02-07 11:22:12 : DB connection closed
+2024-02-07 11:31:30 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id`,`product_mincap`,`product_price` ) VALUES ( 'PRO20240207cHq3hPX','JAMBO-L6TTC6','CAT20240205EzrxFIi','UWR20240126DWefg','Motor Vehicle Commercial Comprehensive','SUBCOMM','','') ]
+2024-02-07 11:31:30 : Number of affected rows: [ 1 ]
+2024-02-07 11:31:30 : DB connection closed
+2024-02-07 11:31:30 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'TB1hpD9','','','','','','PRO20240207cHq3hPX') ]
+2024-02-07 11:31:30 : Number of affected rows: [ 1 ]
+2024-02-07 11:31:30 : DB connection closed
+2024-02-07 11:31:30 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'TgfHAob','','','','','PRO20240207cHq3hPX') ]
+2024-02-07 11:31:30 : Number of affected rows: [ 1 ]
+2024-02-07 11:31:30 : DB connection closed
+2024-02-07 11:39:39 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`subcategory_id`,`product_mincap`,`product_price` ) VALUES ( 'PRO202402076bsHrzk','JAMBO-HBSM2Z','CAT20240205EzrxFIi','UWR20240126DW3zZt7','Motor Vehicle Commercial Comprehensive','SUBCOMM','','25000') ]
+2024-02-07 11:39:39 : Number of affected rows: [ 1 ]
+2024-02-07 11:39:39 : DB connection closed
+2024-02-07 11:39:39 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'PdKfmNc','Test Benefit 1','no','price','20000','','PRO202402076bsHrzk') ]
+2024-02-07 11:39:39 : Number of affected rows: [ 1 ]
+2024-02-07 11:39:39 : DB connection closed
+2024-02-07 11:39:39 : Prepairing insert query, SQL: [  INSERT INTO `benefit` ( `benefit_id`,`benefit_name`,`benefit_free`,`benefit_mode`,`benefit_price`,`benefit_rate`,`product_id` ) VALUES ( 'pw25ZXr','Test Benefit 2','yes','','','','PRO202402076bsHrzk') ]
+2024-02-07 11:39:39 : Number of affected rows: [ 1 ]
+2024-02-07 11:39:39 : DB connection closed
+2024-02-07 11:39:39 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'EUdKLk5','Test Levy 1','','price','400','PRO202402076bsHrzk') ]
+2024-02-07 11:39:39 : Number of affected rows: [ 1 ]
+2024-02-07 11:39:39 : DB connection closed
+2024-02-07 11:39:39 : Prepairing insert query, SQL: [  INSERT INTO `levy` ( `levy_id`,`levy_name`,`levy_rate`,`levy_mode`,`levy_price`,`product_id` ) VALUES ( 'hMrqa3y','Test Levy 2','1','rate','','PRO202402076bsHrzk') ]
+2024-02-07 11:39:39 : Number of affected rows: [ 1 ]
+2024-02-07 11:39:39 : DB connection closed
+2024-02-07 11:40:53 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`product_mincap`,`product_price` ) VALUES ( 'PRO20240207KHlbFOa','JAMBO-XYWC04','CAT20240205ghdSw0f','UWR20240126DW3zZt7','Motor Vehicle Third Party Comprehensive','500000','6') ]
+2024-02-07 11:40:53 : Number of affected rows: [ 1 ]
+2024-02-07 11:40:53 : DB connection closed
+2024-02-07 11:42:01 : Prepairing insert query, SQL: [  INSERT INTO `product` ( `product_id`,`product_code`,`category_id`,`writer_id`,`product_name`,`product_mincap`,`product_price` ) VALUES ( 'PRO20240207lLZRMwO','JAMBO-IK5SIW','CAT20240205ghdSw0f','UWR20240126DWefg','Motor Vehicle Third Party Comprehensive','500000','20000') ]
+2024-02-07 11:42:01 : Number of affected rows: [ 1 ]
+2024-02-07 11:42:01 : DB connection closed

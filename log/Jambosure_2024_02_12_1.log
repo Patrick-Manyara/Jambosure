@@ -1,0 +1,9 @@
+2024-02-12 17:24:58 : Prepairing insert query, SQL: [  INSERT INTO `policy` ( `policy_id`,`user_id`,`policy_make`,`policy_model`,`policy_year`,`policy_value`,`category_id`,`subcategory_id`,`policy_price`,`product_id`,`policy_benefits` ) VALUES ( 't6dvLTJ','0jog3yIUCGA','Toyota','Vitz','1993','1500000','CAT20240205EzrxFIi','SUBCOMM','1561250','PRO202402076bsHrzk','PdKfmNc,pw25ZXr') ]
+2024-02-12 17:24:58 : Number of affected rows: [ 1 ]
+2024-02-12 17:24:58 : DB connection closed
+2024-02-12 17:42:09 : Prepairing insert query, SQL: [  INSERT INTO `policy` ( `policy_id`,`user_id`,`policy_make`,`policy_model`,`policy_year`,`policy_value`,`category_id`,`policy_price`,`product_id`,`policy_benefits` ) VALUES ( 'uvmk8O7','0jog3yIUCGA','Audi','S Class','2020','4000000','CAT20240205ghdSw0f','4080200','PRO20240207lLZRMwO','asdzxc,qweasd') ]
+2024-02-12 17:42:09 : Number of affected rows: [ 1 ]
+2024-02-12 17:42:09 : DB connection closed
+2024-02-12 17:51:52 : Prepairing insert query, SQL: [  INSERT INTO `policy` ( `policy_id`,`user_id`,`policy_make`,`policy_model`,`policy_year`,`policy_value`,`category_id`,`subcategory_id`,`policy_price`,`product_id`,`policy_benefits` ) VALUES ( 'uwE9LxQ','0jog3yIUCGA','Subaru','Impreza','1989','300000','CAT20240205EzrxFIi','SUBCOMM','349250','PRO202402076bsHrzk','PdKfmNc') ]
+2024-02-12 17:51:52 : Number of affected rows: [ 1 ]
+2024-02-12 17:51:52 : DB connection closed
