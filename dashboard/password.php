@@ -6,51 +6,51 @@ $header_name = 'Change Password';
 require_once 'header.php';
 ?>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script>
- $(document).ready(function() {
-            function getQueryParams() {
-                const urlParams = new URLSearchParams(window.location.search);
-                const type = urlParams.get('success') ? 'success' : 'error';
-                const message = urlParams.get(`${type}`)
-                return {
-                    message,
-                    type
-                };
-            }
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+<script>
+    $(document).ready(function() {
+        function getQueryParams() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const type = urlParams.get('success') ? 'success' : 'error';
+            const message = urlParams.get(`${type}`)
+            return {
+                message,
+                type
+            };
+        }
 
-            function displayNotification(message, type) {
-                toastr.options = {
-  "closeButton": true,
-  "debug": false,
-  "newestOnTop": false,
-  "progressBar": false,
-  "positionClass": "toast-top-full-width",
-  "preventDuplicates": false,
-  "onclick": null,
-  "showDuration": "10000",
-  "hideDuration": "1000",
-  "timeOut": "100000",
-  "extendedTimeOut": "1000",
-  "showEasing": "swing",
-  "hideEasing": "linear",
-  "showMethod": "fadeIn",
-  "hideMethod": "fadeOut"
-}
-                toastr[type](message);
+        function displayNotification(message, type) {
+            toastr.options = {
+                "closeButton": true,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": false,
+                "positionClass": "toast-top-full-width",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "10000",
+                "hideDuration": "1000",
+                "timeOut": "100000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
             }
+            toastr[type](message);
+        }
 
-            function clearQueryParams() {
-                window.history.replaceState({}, document.title, window.location.pathname);
-            }
+        function clearQueryParams() {
+            window.history.replaceState({}, document.title, window.location.pathname);
+        }
 
-            const queryParams = getQueryParams();
-             if (queryParams.message && queryParams.type) {
-                  displayNotification(queryParams.message, queryParams.type);
-                  clearQueryParams(); 
-             }
-             
-});
+        const queryParams = getQueryParams();
+        if (queryParams.message && queryParams.type) {
+            displayNotification(queryParams.message, queryParams.type);
+            clearQueryParams();
+        }
+
+    });
 </script>
 
 <div class="container-xxl flex-grow-1 container-p-y">
@@ -58,22 +58,28 @@ require_once 'header.php';
 
     <div class="row">
         <div class="col-md-12">
-            <ul class="nav nav-pills flex-column flex-md-row mb-3">
-                <!--<li class="nav-item">-->
-                <!--    <a class="nav-link" href="my_profile"><i class="bx bx-user me-1"></i> Account</a>-->
-                <!--</li>-->
-                <li class="nav-item">
-                    <a class="nav-link active" href="password"><i class="bx bx-lock-alt me-1"></i> Security</a>
-                </li>
-                <!--<li class="nav-item">-->
-                <!--    <a class="nav-link" href="edit_profile"><i class="bx bx-detail me-1"></i>Edit Profile</a>-->
-                <!--</li>-->
-            </ul>
+            <!-- Navbar pills -->
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="nav nav-pills flex-column flex-md-row mb-3">
+                        <li class="nav-item">
+                            <a class="nav-link " href="my_profile"><i class="bx bx-user me-1"></i> Account</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="password"><i class="bx bx-lock-alt me-1"></i> Security</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="edit_profile"><i class="bx bx-detail me-1"></i>Edit Profile</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!--/ Navbar pills -->
             <!-- Change Password -->
             <div class="card mb-4">
                 <h5 class="card-header">Change Password</h5>
                 <div class="card-body">
-                    <form method="POST"  action="<?= model_url ?>admin_password">
+                    <form method="POST" action="<?= model_url ?>admin_password">
                         <!-- <div class="row">
                             <div class="mb-3 col-md-6 form-password-toggle">
                                 <label class="form-label" for="current_password">Current Password</label>
@@ -108,7 +114,8 @@ require_once 'header.php';
                                 </ul>
                             </div>
                             <div class="col-12 mt-1">
-                            <button type="submit" class="btn btn-primary me-2" id="submitBtn" disabled>Save changes</button>                            </div>
+                                <button type="submit" class="btn btn-primary me-2" id="submitBtn" disabled>Save changes</button>
+                            </div>
                         </div>
                     </form>
                 </div>

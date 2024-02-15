@@ -7,7 +7,7 @@ require_once 'header.php';
 
 $users = get_all_users();
 
-$num_columns = 7;
+$num_columns = 12;
 
 $column_indexes = range(0, $num_columns - 1);
 
@@ -17,10 +17,15 @@ for ($i = 0; $i < $num_columns; $i++) {
     $column_defs = array(
         array('data' => '', 'title' => 'S.no'),
         array('data' => 'col_' . $i, 'title' => 'S.no'),
-        array('data' => 'user_image', 'title' => 'Image'),
         array('data' => 'user_name', 'title' => 'Name'),
         array('data' => 'user_email', 'title' => 'Email'),
         array('data' => 'user_phone', 'title' => 'Phone'),
+        array('data' => 'user_names', 'title' => 'ID Number'),
+        array('data' => 'user_emails', 'title' => 'DOB'),
+        array('data' => 'user_phonesz', 'title' => 'KRA Pin'),
+        array('data' => 'user_emailss', 'title' => 'Address'),
+        array('data' => 'user_phoness', 'title' => 'Town'),
+        array('data' => 'user_phoness', 'title' => 'Cover Status'),
         array('data' => '', 'title' => 'Action')
     );
 }
@@ -35,13 +40,17 @@ for ($i = 0; $i < $num_columns; $i++) {
             <table class="datatables-basic table border-top">
                 <thead>
                     <tr>
-                        <th></th>
-
+                        <th> </th>
                         <th>S.no</th>
-                        <th>Image</th>
                         <th>Name</th>
                         <th>Email</th>
                         <th>Phone</th>
+                        <th>ID Number</th>
+                        <th>DOB</th>
+                        <th>KRA Pin</th>
+                        <th>Address</th>
+                        <th>Town</th>
+                        <th>Cover Status</th>
                         <th>Action</th>
                     </tr>
                 </thead>
@@ -57,14 +66,19 @@ for ($i = 0; $i < $num_columns; $i++) {
                         }
                     ?>
                         <tr>
-                            <td></td>
+                            <td> </td>
                             <td><?= $cnt ?></td>
-                            <td>
-                                <img alt="user image" src="<?= file_url . $image ?>" style="width:100px; height:auto; border-radius:5px;" title="<?= $user['user_name'] ?>">
-                            </td>
                             <td> <?= $user['user_name'] ?> </td>
                             <td> <?= $user['user_email'] ?> </td>
                             <td> <?= $user['user_phone'] ?> </td>
+
+                            <td> <?= $user['user_passport'] ?> </td>
+                            <td> <?= $user['user_dob'] ?> </td>
+                            <td> <?= $user['user_kra'] ?> </td>
+
+                            <td> <?= $user['user_address'] ?> </td>
+                            <td> <?= $user['user_town'] ?> </td>
+                            <td> <?= $user['user_status'] ?> </td>
                           
                             <td>
                                <a href="<?= admin_url ?>user?id=<?= $user_id ?>" class="btn btn-success">

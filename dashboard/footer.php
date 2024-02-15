@@ -9,7 +9,7 @@
             , made with ❤️ by
             <a href="https://vesencomuting.com" target="_blank" class="footer-link fw-bolder">Vesen Computing</a>
         </div>
-        
+
     </div>
 </footer>
 <!-- / Footer -->
@@ -157,7 +157,7 @@
 
                     buttons: [{
                         extend: 'collection',
-                        className: 'btn btn-label-primary dropdown-toggle me-2',
+                        className: 'btn btn-label-primary dropdown-toggle me-2 MyNewBtn',
                         text: '<i class="bx bx-export me-sm-1"></i> <span class="d-none d-sm-inline-block">Export</span>',
                         buttons: [{
                                 extend: 'print',
@@ -296,6 +296,11 @@
 
 
 <style>
+    .MyNewBtn {
+        background-color: #58ADAB;
+        color:white;
+    }
+
     .DeeEnd {
         display: flex;
         justify-content: flex-end;
@@ -618,7 +623,7 @@
         width: 10em;
         object-fit: cover;
     }
- 
+
     .BlackText {
         color: black !important;
     }

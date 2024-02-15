@@ -35,6 +35,15 @@ unset_session_error();
 unset_session_success();
 unset_session_warning();
 
+$profile = get_by_id('admin',$_SESSION['admin_id']);
+
+if (!empty($profile['admin_image'])) :
+    $require = false;
+    $image = $profile['admin_image'];
+else :
+    $require = true;
+    $image = 'white_bg_image.png';
+endif;
 ?>
 <!DOCTYPE html>
 
@@ -108,10 +117,19 @@ unset_session_warning();
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <style>
+        body {
+            font-family: 'Montserrat', sans-serif !important;
+            font-weight: bold;
+        }
+
         .datatables-basic thead tr {
             background-color: #269491C4;
         }
@@ -200,7 +218,7 @@ unset_session_warning();
                             <li class="nav-item navbar-dropdown dropdown-user dropdown">
                                 <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
                                     <div class="avatar avatar-online">
-                                        <img src="<?= admin_url ?>assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                        <img src="<?= file_url . $image ?>" alt class="w-px-40 h-auto rounded-circle" />
                                     </div>
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-end">
@@ -209,7 +227,7 @@ unset_session_warning();
                                             <div class="d-flex">
                                                 <div class="flex-shrink-0 me-3">
                                                     <div class="avatar avatar-online">
-                                                        <img src="<?= admin_url ?>assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                                        <img src="<?= file_url . $image ?>" alt class="w-px-40 h-auto rounded-circle" />
                                                     </div>
                                                 </div>
                                                 <div class="flex-grow-1">

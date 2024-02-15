@@ -79,32 +79,32 @@
         </li>
 
         <li class="menu-item">
-            <a href="#" class="menu-link">
+            <a href="view_invoices" class="menu-link">
                 <i class="menu-icon fa-solid fa-receipt"></i>
                 <div data-i18n="Invoices">Invoices</div>
             </a>
         </li>
 
-        <li class="menu-item">
+        <!-- <li class="menu-item">
             <a href="#" class="menu-link">
                 <i class="menu-icon fa-solid fa-file-csv"></i>
                 <div data-i18n="Reports">Reports</div>
             </a>
-        </li>
+        </li> -->
 
-        <li class="menu-item">
+        <!-- <li class="menu-item">
             <a href="#" class="menu-link">
                 <i class="menu-icon fa-solid fa-users"></i>
                 <div data-i18n="User Management">User Management</div>
             </a>
-        </li>
+        </li> -->
 
         <!-- E-Registry -->
         <li class="menu-header small text-uppercase">
             <!-- <span class="menu-header-text">Users</span> -->
         </li>
         <li class="menu-item">
-            <a href="#" class="menu-link">
+            <a href="edit_profile" class="menu-link">
                 <i class="menu-icon fa-solid fa-gear"></i>
                 <div data-i18n="Settings">Settings</div>
             </a>
